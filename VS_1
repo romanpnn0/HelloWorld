@@ -7,8 +7,8 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	int a=5;
-	int b=7;
-	printf("Hello World\n");
+	int b=8;
+	printf("Hello World!\n");
 	return 0;
 }
 
